@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AOMINsS2svmNFwvyZvNlp3VjRTnw1VWT8XQ2cViqn+rouhKh/xMGNipJWfGvnmgJoX4fXGY4BykfvgHVOA4/ow==",
+  "dgSpecHash": "Sa/0Qds149+XzVlYIH89EsrgkaIv/7kalqufnSCoqYyUceuq7PMnMjYAu11YV3FTH70Qw++aABfEoHU5AlxB1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\ExercisesPart1\\ExercisesPart1\\ExercisesPart1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\edgar\\Source\\Repos\\English-tasks\\ExercisesPart1\\ExercisesPart1\\ExercisesPart1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
